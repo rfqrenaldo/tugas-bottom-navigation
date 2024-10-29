@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TugasAndroid</string>
+    <string name="tab_text_1">Register</string>
+    <string name="tab_text_2">Login</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mytablayout">MyTabLayout</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="buyTicket">Buy Ticket</string>
+    <string name="orderTicket">Order Ticket</string>
+    <string name="txt_home">Welcome to Home Page</string>
+    <string name="btn_home">Explore Destination</string>
+    <string name="home">Homepage</string>
+    <string name="terms_condition">
+        By checking the box you agree to our <a href="#">Terms and Conditions. </a>
+    </string>
+    <array name="ticketTypes">
+        <item>First Class Ticket</item>
+        <item>Business Class Ticket</item>
+        <item>Economy Class Ticket</item>
+    </array>
+</resources>
